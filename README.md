@@ -12,10 +12,8 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
-### Patient_Flow_Analysis
-*A hospital dataset containing 9,216 unique records that contain information over a 24 month period regarding patient wait time, satisfaction, department referrals, admission patterns, and pateint demographics. This dataset was cleaned using Excel and SQL before importing into Power BI for further analysis. Key insights include peak busy periods, specifically between the hours of 12-2 AM, average satisfaction score of 5/10, and average wait time of 35 minutes. These metrics can help improve resource allocation, optimal staffing, and patient experience. 
+### Patient Flow Analysis
+A hospital dataset containing 9,216 unique records that contain information over a 24 month period regarding patient wait time, satisfaction, department referrals, admission patterns, and pateint demographics. This dataset was cleaned using Excel and SQL before importing into Power BI for further analysis. Key insights include peak busy periods, specifically between the hours of 12-2 AM, average satisfaction score of 5/10, and average wait time of 35 minutes. These metrics can help improve resource allocation, optimal staffing, and patient experience. 
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
