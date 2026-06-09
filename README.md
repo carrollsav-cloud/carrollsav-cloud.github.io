@@ -1,7 +1,5 @@
 # Savannah Carroll - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
-
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
@@ -12,13 +10,13 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-### Patient Flow Analysis
+### Patient Flow Analysis (PowerBI)
 A hospital dataset containing 9,216 unique records that contain information over a 24 month period regarding patient wait time, satisfaction, department referrals, admission patterns, and pateint demographics. This dataset was cleaned using Excel and SQL before importing into Power BI for further analysis. Key insights include peak busy periods, specifically between the hours of 12-2 AM, average satisfaction score of 5/10, and average wait time of 35 minutes. These metrics can help improve resource allocation, optimal staffing, and patient experience. 
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Massachusetts Hospital Yearly Report (Excel Dashboard)
+A year by year analysis covering data from 2011-2022 regarding patient encounters, billing totals, and insurance carriers. This dataset was uploaded into the power query editor for data cleaning and column customization. Power pivot used to model data tables and build relationships for further analysis. Key insights include total claims cost by encounter types, cost of encounters, and patient insurance carriers. Conclusions are explained on the descriptive analysis sheet to further plan for action steps needed by business leadership.
 
-### Project Title Three
+### Massachusetts Hospital (SQL queries)
 *A brief description of your project, the tools used, and the key insights derived.*
 
 
