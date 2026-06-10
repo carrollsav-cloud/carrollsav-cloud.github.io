@@ -11,13 +11,16 @@ This portfolio is designed to demonstrate skills in:
 ## 🚀 Projects
 
 ### Patient Flow Analysis (PowerBI)
-A hospital dataset containing 9,216 unique records that contain information over a 24 month period regarding patient wait time, satisfaction, department referrals, admission patterns, and pateint demographics. This dataset was cleaned using Excel and SQL before importing into Power BI for further analysis. Key insights include peak busy periods, specifically between the hours of 12-2 AM, average satisfaction score of 5/10, and average wait time of 35 minutes. These metrics can help improve resource allocation, optimal staffing, and patient experience. 
+A hospital dataset containing 9,216 unique records that contain information over a 24 month period regarding patient wait time, satisfaction, department referrals, admission patterns, and patient demographics. This dataset was cleaned using Excel and SQL before importing into Power BI for further analysis. Key insights include peak busy periods, specifically between the hours of 12-2 AM, average satisfaction score of 5/10, and average wait time of 35 minutes. These metrics can help improve resource allocation, optimal staffing, and patient experience. 
 
 ### Massachusetts Hospital Yearly Report (Excel Dashboard)
 A year by year analysis covering data from 2011-2022 regarding patient encounters, billing totals, and insurance carriers. This dataset was uploaded into the power query editor for data cleaning and column customization. Power pivot used to model data tables and build relationships for further analysis. Key insights include total claims cost by encounter types, cost of encounters, and patient insurance carriers. Conclusions are explained on the descriptive analysis sheet to further plan for action steps needed by business leadership.
 
+### Orthopedics Dashboard
+A quick look into an orthopedics department of year 2023 to find out patient volume, wait time, and satisfaction scores. Interactive slicers allow users to see peak months and days of the week, which may influence staffing and scheduling. A bar-line chart breaks down wait times by the hour to highlight any correlation with patient volume so that decisions around operational efficiency can move forward. Additionally, patient census grouped into age category will assist with resource allocation specific to that population. Conclusions are explained in the descriptive analysis sheet of the dashboard.
+
 ### Massachusetts Hospital (SQL queries)
-*A brief description of your project, the tools used, and the key insights derived.*
+
 
 
 ## 🛠️ Skills
