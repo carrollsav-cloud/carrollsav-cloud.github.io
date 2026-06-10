@@ -20,7 +20,7 @@ A year by year analysis covering data from 2011-2022 regarding patient encounter
 A quick look into an orthopedics department of year 2023 to find out patient volume, wait time, and satisfaction scores. Interactive slicers allow users to see peak months and days of the week, which may influence staffing and scheduling. A bar-line chart breaks down wait times by the hour to highlight any correlation with patient volume so that decisions around operational efficiency can move forward. Additionally, patient census grouped into age category will assist with resource allocation specific to that population. Conclusions are explained in the descriptive analysis sheet of the dashboard.
 
 ### Massachusetts Hospital (SQL queries)
-
+Answering 6 business questions regarding patient encounters, billing, insurance, and procedures of a Massachusetts hospital from 2011-2022 using Microsoft SQL Server. Generated insights using table JOINS, filtering, and mathmatical operators. Insights used to uncover patient behavior, billing patterns, and insurance coverage that leadership may use to plan for yearly budgeting.
 
 
 ## 🛠️ Skills
